@@ -2,5 +2,5 @@
 Blabla Lorem ipsum dolor sit amet consector
 
 ## O čom to bolo
-hdhfhtrt
+hdhfhtrtg
 
